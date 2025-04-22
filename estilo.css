@@ -1,3 +1,11 @@
+*{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+
 body{
     font-size: 18px;
 }
@@ -26,8 +34,15 @@ header .links a{
     color: #2f4538;
     font-weight: bold;
     margin: 0 10px;
+    font-family: Radio Canada Big;
 }
 
+h2{
+    font-family: "Radio Canada Big", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
 .descricao{
     text-align: center;
     margin: 18px;
